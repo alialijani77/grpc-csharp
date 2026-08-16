@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Client/">
+    <Project Path="ConsoleClient/ConsoleClient.csproj" Id="63c20e78-912d-4c57-b6cb-2615495d4b16" />
+    <Project Path="WinFormsClient/WinFormsClient.csproj" Id="3e982bb0-ed40-4fb6-9347-55e8677e59ca" />
+  </Folder>
   <Project Path="grpc-csharp-server/grpc-csharp-server.csproj" />
 </Solution>
